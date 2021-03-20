@@ -3,8 +3,22 @@ body {
 	padding: 0;
 }
 
+nav {
+	background-color: #e0e0d1; 
+	padding: 7px; 
+	font-family: Roboto; 
+	font-size: 23px; 
+	color: #bb1133;
+	position: fixed;
+	top: 0;
+	width: 100%;
+
+}
+
 #body{
 	margin: 0 15px 0 15px;
+	height: 2000px;
+	padding-top: 35px;
 
 }
 
@@ -13,6 +27,8 @@ body {
 
 		border-bottom: 1px solid black;
 		padding: 0 0 5px 0;
+		font-family: Source Code Pro; 
+		font-size: 44px;
 
 	}
 
