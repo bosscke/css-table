@@ -17,7 +17,7 @@ nav {
 
 #body{
 	margin: 0 15px 0 15px;
-	height: 2000px;
+	height: 850px;
 	padding-top: 35px;
 
 }
@@ -30,6 +30,13 @@ nav {
 		font-family: Source Code Pro; 
 		font-size: 44px;
 
+	}
+
+	footer {
+
+		display: block;
+		background-color: #e0e0d1;
+		padding: 35px;
 	}
 
 
